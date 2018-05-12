@@ -1,0 +1,28 @@
+_repo: The-War-Poems-of-Siegfried-Sassoon_14757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sassoon, Siegfried
+    birthdate: 1886
+    deathdate: 1967
+    gutenberg_agent_id: '2934'
+    url: http://www.gutenberg.org/2009/agents/2934
+    wikipedia: http://en.wikipedia.org/wiki/Siegfried_Sassoon
+description: ''
+gutenberg_issued: '2005-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'War poetry, English'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+title: The War Poems of Siegfried Sassoon
+url: http://www.gutenberg.org/ebooks/14757
